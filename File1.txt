@@ -2,3 +2,4 @@
 Новое изменение
 commit test
 new branch line
+conflict test
