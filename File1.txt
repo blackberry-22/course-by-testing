@@ -3,3 +3,4 @@
 commit test
 new branch line
 conflict test
+New line for GUI
